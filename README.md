@@ -3,17 +3,25 @@
 - 👋 Hi, I’m @pauldo
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning English
-- 📫 Welcome send mail to me: pauldo@foxmail.com
+- 📫 Welcome to contact me: pauldo@foxmail.com
 
 ## Navigation
 
 ### Blog
 
-- [ruanyifeng](https://www.ruanyifeng.com/blog/)
+[Ruanyifeng](https://www.ruanyifeng.com/blog/)
 
 ### Forum
 
-- [V2EX](https://v2ex.com/) | [NodeSeek](https://www.nodeseek.com/)
+[Reddit](https://www.reddit.com/) | [V2EX](https://v2ex.com/) | [NodeSeek](https://www.nodeseek.com/)
+
+### Tools
+
+[PairDrop](https://pairdrop.net/) | [Excel](https://docs.google.com/spreadsheets/u/0/) | [52etf](https://52etf.site/)
+
+### Misc
+
+[X](https://x.com/) | [Wallhaven](https://wallhaven.cc/) | [Terminaltrove](https://terminaltrove.com/) | [OKX](https://www.okx.com/) | [Movie](https://55me7.art/)
 
 <!---
 pauldo/pauldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
