@@ -13,11 +13,17 @@
 
 ### Forum
 
-[Reddit](https://www.reddit.com/) | [V2EX](https://v2ex.com/) | [NodeSeek](https://www.nodeseek.com/)
+[Reddit](https://www.reddit.com/) | [LinuxDo](https://linux.do/) | [V2EX](https://v2ex.com/) | [NodeSeek](https://www.nodeseek.com/)
 
 ### Tools
 
 [PairDrop](https://pairdrop.net/) | [Excel](https://docs.google.com/spreadsheets/u/0/) | [52etf](https://52etf.site/)
+[LazyVim](https://www.lazyvim.org/) | [Helix](https://docs.helix-editor.com/master/) | [niri](https://yalter.github.io/niri/)
+[OpenCut](https://github.com/OpenCut-app/OpenCut)
+
+### IPTV
+
+[zwc456baby](https://github.com/zwc456baby/iptv_alive) | [zwrt](https://github.com/zwrt/IPTV)
 
 ### Misc
 
