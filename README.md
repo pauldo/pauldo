@@ -5,30 +5,38 @@
 - 🌱 I’m currently learning English
 - 📫 Welcome to contact me: pauldo@foxmail.com
 
-## Navigation
+## My Favorite Navigation
 
-### Blog
-
-[Ruanyifeng](https://www.ruanyifeng.com/blog/)
-
-### Forum
+### Forums
 
 [Reddit](https://www.reddit.com/) | [LinuxDo](https://linux.do/) | [V2EX](https://v2ex.com/) | [NodeSeek](https://www.nodeseek.com/)
+[Hacker News](https://news.ycombinator.com/)
 
-### Tutorial
+### Feeds & Blogs
 
-[Ethers.js Web3](https://github.com/xjh22222228/ethers-tutorial)
+[Github Trending](https://github.com/trending)
+[Buzzing](https://www.buzzing.cc/)
+[Ruanyifeng](https://www.ruanyifeng.com/blog/)
+
+### Tutorials
+
+[Ethers.js Web3](https://github.com/xjh22222228/ethers-tutorial) [Cloud Native](https://www.thebyte.com.cn/)
+
+### Frameworks
+
+[dioxus](https://github.com/DioxusLabs/dioxus)
 
 ### AI
 
-[shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | [airi](https://github.com/moeru-ai/airi)
+[shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | [ollama](https://github.com/ollama/ollama) | [airi](https://github.com/moeru-ai/airi)
 
 ### Tools
 
-[reinstall](https://github.com/bin456789/reinstall) | [doxx](https://github.com/bgreenwell/doxx)
+[reinstall](https://github.com/bin456789/reinstall) | [chsrc](https://github.com/RubyMetric/chsrc) | [doxx](https://github.com/bgreenwell/doxx)
 [PairDrop](https://pairdrop.net/) | [Excel](https://docs.google.com/spreadsheets/u/0/) | [52etf](https://52etf.site/)
-[LazyVim](https://www.lazyvim.org/) | [Helix](https://docs.helix-editor.com/master/) | [niri](https://yalter.github.io/niri/)
+[LazyVim](https://www.lazyvim.org/) | [Helix](https://docs.helix-editor.com/master/)
 [OpenCut](https://github.com/OpenCut-app/OpenCut) | [OpenSpeedy](https://github.com/game1024/OpenSpeedy) | [Sunshine](https://github.com/LizardByte/Sunshine)
+[Control Android](https://github.com/Genymobile/scrcpy)
 
 ### Systems & Themes
 
@@ -38,6 +46,7 @@
 
 #### Linux
 
+[niri](https://github.com/YaLTeR/niri)
 [omarchy](https://github.com/basecamp/omarchy) | [FlexFox](https://github.com/yuuqilin/FlexFox)
 
 #### Windows
@@ -46,7 +55,7 @@
 
 ### Softwares
 
-[tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+[tiny-rdm](https://github.com/tiny-craft/tiny-rdm) | [Maccy](https://github.com/p0deje/Maccy)
 
 ### Experimental
 
@@ -61,7 +70,7 @@
 #### Source
 
 [zwc456baby](https://github.com/zwc456baby/iptv_alive) | [zwrt](https://github.com/zwrt/IPTV) | [YueChan](https://github.com/YueChan/Live.git)
-[kakaxi-1](https://github.com/kakaxi-1/IPTV.git)
+[kakaxi-1](https://github.com/kakaxi-1/IPTV.git) | [iptv-org](https://github.com/iptv-org/iptv)
 
 ### Misc
 
